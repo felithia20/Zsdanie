@@ -1,0 +1,11 @@
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\bin\Debug\lib2.dll
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\bin\Debug\listing 9.2.Dmitrieva.exe
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\bin\Debug\lib2.pdb
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\bin\Debug\listing 9.2.Dmitrieva.pdb
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\obj\Debug\Zadanie.csproj.CopyComplete
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\obj\Debug\Zadanie.pdb
+C:\Users\stud\Downloads\PortableGit-Дмитриева Ксения\Zsdanie\Zadanie\obj\Debug\Zadanie.csprojAssemblyReference.cache
